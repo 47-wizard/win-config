@@ -693,6 +693,7 @@
     padding: -1px 2px 0 0;
     font-size: 12px;
     font-family: "Segoe Fluent Icons";
+    color: var(--text);
 }
 .battery-widget .widget-container .icon.status-low {
     color: red;
