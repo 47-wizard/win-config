@@ -29,6 +29,7 @@ windows installation overview by Whispy: https://wispydocs.pages.dev/windows/
 
 - <a href="https://github.com/cowboy8625/rusty-rain">rusty-rain</a>/ matrix rain in cli
 
+<hr>
 
 ### winget install
     ``` glazewm ```
@@ -55,6 +56,8 @@ windows installation overview by Whispy: https://wispydocs.pages.dev/windows/
     ``` shell ```
     winget install JanDeDobbeleer.OhMyPosh --source winget
     oh-my-posh font install meslo
+
+<hr>
 
 ### yasb.config preview
 <s><h4>pr31yi5jp3bgnhuu (unmaintained) <i>(forked from i3 WinBars/Louis047)</i></h4>
@@ -85,23 +88,25 @@ windows installation overview by Whispy: https://wispydocs.pages.dev/windows/
 
 ### Usage
 
-glazewm
+<i>glazewm</i> 
 
 `` C:\Users\%username%\.glzr\glazewm\config.yaml ``
 
-komorebi
+<i>komorebi</i>
 
 ```
 C:\Users\%username%\komorebi.json
 C:\Users\%username%\.config\whkdrc
 ```
 
-yasb
+<i>yasb</i>
 
 ```
 C:\Users\%username%\.config\yasb\config.yaml
 C:\Users\%username%\.config\yasb\styles.css
 ```
+
+<hr>
 
 ### wallpaper used in preview
 - https://steamcommunity.com/sharedfiles/filedetails/?id=915680280
