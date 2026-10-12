@@ -11,13 +11,13 @@ windows installation overview by Whispy: https://wispydocs.pages.dev/windows/
 
 - <a href="https://github.com/amnweb/thide">Taskbar Hide</a>/ hide/show the taskbar
 
-- <a href="https://flowlauncher.com/">Flow Launcher</a>/ macOS spotlight like with community-made plugins
+- <a href="https://flowlauncher.com/">Flow Launcher</a>/ macOS spotlight like, supports community-made plugins
 
 - <a href="https://www.voidtools.com/">Everything Search</a>/ locate files and folders instantly
 
 - <a href="https://nilesoft.org/">Nilesoft Shell</a>/ highly customizable context menu manager
 
-- <a href="https://github.com/Open-Shell/Open-Shell-Menu">Open-Shell</a>/ classic windows start menu like, with the ability to disable "Win" key
+- <a href="https://github.com/Open-Shell/Open-Shell-Menu">Open-Shell</a>/ classic windows start menu like, has the ability to disable "Win" key
 
 - <a href="https://ohmyposh.dev/">oh-my-posh</a>/ shell customization
 
