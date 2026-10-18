@@ -1,4 +1,4 @@
-## <a href="https://codeberg.org/47-wizard/win.confign">moved to codeberg <i>on Oct 16th 2026</i></a>
+## <a href="https://codeberg.org/47-wizard/win.config">moved to codeberg <i>on Oct 16th 2026</i></a>
 
 
 <s>
