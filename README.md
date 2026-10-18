@@ -1,4 +1,10 @@
+## <a href="https://codeberg.org/fortysv-wizard/win.config/src/branch/main">moved to codeberg <i>on Oct 16th 2026</i></a>
+
+
+<s>
+
 # win-config
+
 windows installation overview by Whispy: https://wispydocs.pages.dev/windows/
 
 ### ricing-tools: 
@@ -116,3 +122,5 @@ C:\Users\%username%\.config\yasb\styles.css
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1883906261
 
 - https://steamcommunity.com/sharedfiles/filedetails/?id=845514446
+
+</s>
