@@ -1,4 +1,4 @@
-# win.config
+# win-config
 windows installation overview by Whispy: https://wispydocs.pages.dev/windows/
 
 ### ricing-tools: 
